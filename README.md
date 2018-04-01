@@ -1,5 +1,7 @@
 # myPython
 
-Êä³öÍøÕ¾Ö÷ÒªÊÇÅÀÈ¡ÍøÕ¾¡¶²ËÄñ½Ì³Ì¡·ÀïµÄpython3½Ì³Ì£¬²¢°ÑhtmlÒ³Ãæ×ªÎªpdfÎÄµµ¡£
-python3»ù´¡ÖªÊ¶Á´½Ó£ºhttp://www.runoob.com/python3/python3-tutorial.html
-ÕıÔò±í´ïÊ½Á´½Ó:http://www.runoob.com/regexp/regexp-tutorial.html
+è¾“å‡ºç½‘ç«™ä¸»è¦æ˜¯çˆ¬å–ç½‘ç«™ã€Šèœé¸Ÿæ•™ç¨‹ã€‹é‡Œçš„python3æ•™ç¨‹ï¼Œå¹¶æŠŠhtmlé¡µé¢è½¬ä¸ºpdfæ–‡æ¡£ã€‚
+python3åŸºç¡€çŸ¥è¯†é“¾æ¥ï¼šhttp://www.runoob.com/python3/python3-tutorial.html
+æ­£åˆ™è¡¨è¾¾å¼é“¾æ¥:http://www.runoob.com/regexp/regexp-tutorial.html
+
+![Image text](https://github.com/xiaoyuan199/myPython/blob/master/imge/%E6%88%AA%E5%9B%BE.JPG)
